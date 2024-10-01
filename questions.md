@@ -1,0 +1,1 @@
+what will be the output of "int teaLeaves = 'jj';" and why?
